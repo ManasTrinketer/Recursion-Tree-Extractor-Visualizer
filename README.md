@@ -21,3 +21,5 @@ The first tool of the set is used as you would use any other library class i.e. 
 Refer to https://github.com/Manas-Ranjan-Das/Recursion-Tree-Extractor-Visualizer/blob/main/Extraction%20steps.png 
 
 The end result is a .JSON file representing a recursion tree
+
+Note : The output can also be visualised using my JSON visualiser at manas-ranjan-das.github.io/json-visualiser
